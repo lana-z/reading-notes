@@ -1,5 +1,5 @@
 # reading-notes
-102 01b
+My reading journal for Code Fellows
 
 I'm lana 🤝
 I do strategy consulting work and am building a community of women in emerging tech 
