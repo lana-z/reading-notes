@@ -25,7 +25,7 @@ I do strategy consulting work at my company LevelUp Economy and am building a co
 👨‍🦲 Who ?? 
 🛑 Nope. 
 
-## Welcome to markdown. 
+## Welcome to Markdown. 
 💻
 
 ### What
@@ -34,7 +34,7 @@ Markdown is a text-based language used on Github that allows you to format and s
 ### Why
 Markdown is used because it provides an easy and readable way to format text, making it ideal for creating web content, documentation, and notes because its user friendly and converts easily into HTML.
 
-### Headings
+### How
 To create a heading in markdown, you use the pound or hash symbol # and then a space before your heading text.
 
 To create the # largest heading, you only need one pound symbol before your heading text.
