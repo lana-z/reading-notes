@@ -1,9 +1,9 @@
 # reading-notes
 My reading journal for Code Fellows
 
-I'm lana 🤝
-I do strategy consulting work and am building a community of women in emerging tech 
-[link to my github](https://github.com/lana-z)
+I'm Lana. 🤝
+I do strategy consulting work at my company LevelUp Economy and am building a community of women in emerging tech called Rooftop.
+[Link to my github.](https://github.com/lana-z)
 
 ## A growth mindset
 * is believing you can learn, grow and improve via effort. 
@@ -12,6 +12,6 @@ I do strategy consulting work and am building a community of women in emerging t
 * is these things especially when you feel inadequate in the thing you're trying to do or learn or succeed in.
 
 ### Reminders for staying in or getting back to growth mindset
-![reminders for staying in or getting back to growth mindset] <img width="743" alt="Screenshot 2023-10-20 at 11 16 53 AM" src="https://github.com/lana-z/reading-notes/assets/129145633/f61e2638-61fa-4fa9-95b9-34020bf93ba5">
+<img width="743" alt="Screenshot 2023-10-20 at 11 16 53 AM" src="https://github.com/lana-z/reading-notes/assets/129145633/f61e2638-61fa-4fa9-95b9-34020bf93ba5">
 
 *Reference:* Mindset: The New Psychology of Success by Carol S. Dweck, PhD.
