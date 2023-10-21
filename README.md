@@ -1,11 +1,20 @@
 # reading-notes
-My reading journal for Code Fellows
+*This is my journal for my journey at Code Fellows.*
 
-I'm Lana. 🤝
-I do strategy consulting work at my company LevelUp Economy and am building a community of women in emerging tech called Rooftop.
+
+# I'm Lana. 🤝
+
+I do strategy consulting work at my company LevelUp Economy.
+![LevelUp Economy logo](levelup-logo-transparent.png)
+
+And I'm building a community of women in emerging tech called Rooftop. 
+![Rooftop logo](rooftop-logo-transparent.png)
+
+
 [Link to my github.](https://github.com/lana-z)
 
-## A growth mindset
+
+# A growth mindset
 * is believing you can learn, grow and improve via effort. 
 * is not giving up when you're not initially good at something. 
 * is embracing the idea that mistakes, failure and hard work are the way to get to personal growth and success.
