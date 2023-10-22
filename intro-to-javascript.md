@@ -33,4 +33,4 @@ let myAge = 45;
 - Numbers
 - Boolean - true/false
 
-![Review notes image](file:Users/lanazumbrunn/Desktop/Screenshots/jsreview.png)
+![Review notes image](file:/Users/lanazumbrunn/Desktop/Screenshots/jsreview.png)
