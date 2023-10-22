@@ -32,3 +32,5 @@ let myAge = 45;
 - Strings - 'text here'
 - Numbers
 - Boolean - true/false
+
+![Review notes image](file:Users/lanazumbrunn/Desktop/Screenshots/jsreview.png)
