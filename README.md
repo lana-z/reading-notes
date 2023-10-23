@@ -2,25 +2,42 @@
 *This is my journal for my journey at Code Fellows.*
 
 
-# I'm Lana. 🤝
+## I'm Lana. 🤝
 
 I do strategy consulting work at my company LevelUp Economy.
-![LevelUp Economy logo](levelup-logo-transparent.png)
 
-And I'm building a community of women in emerging tech called Rooftop. 
-![Rooftop logo](rooftop-logo-transparent.png)
+And I'm building a community of women in emerging tech called Rooftop.
 
+I'm also taking a course to up my technical skills. This website is to document my journey through the experience, with notes, aha moments, epic fails, and everything in between. Consider this space my code-scribble canvas, where I'll paint my story one commit at a time.
 
-[Link to my github.](https://github.com/lana-z)
+## Table of Contents
 
+### Code 102 Reading Notes
 
-# A growth mindset
-* is believing you can learn, grow and improve via effort. 
-* is not giving up when you're not initially good at something. 
-* is embracing the idea that mistakes, failure and hard work are the way to get to personal growth and success.
-* is these things especially when you feel inadequate in the thing you're trying to do or learn or succeed in.
+- [topic 1](102/file1.md)
+- [topic 2](102/file2.md)
+- [topic 3](102/file3.md)
+- [topic 4](102/file4.md)
+- [topic 5](102/file5.md)
 
-### Reminders for staying in or getting back to growth mindset
-<img width="743" alt="Screenshot 2023-10-20 at 11 16 53 AM" src="https://github.com/lana-z/reading-notes/assets/129145633/f61e2638-61fa-4fa9-95b9-34020bf93ba5">
+### Code 201 Reading Notes
 
-*Reference:* Mindset: The New Psychology of Success by Carol S. Dweck, PhD.
+#### Module 1
+
+- [topic 1](201/file1.md)
+- [topic 2](201/file2.md)
+- [topic 3](201/file3.md)
+- [topic 4](201/file4.md)
+- [topic 5](201/file5.html)
+- [topic 6](201/so-repetative.md)
+- [topic 7](201/need-to-learn-shortcut-for-this.md)
+- [topic 8](201/file8.md)
+- [topic 9](201/file9.md)
+- [topic 10](201/file10.md)
+- [topic 11](201/file11.md)
+
+#### Module 2
+
+- [topic 1](201/module2/module2-1.md)
+- [topic 2](201/module2/module2-2.md)
+- [topic 3](201/module2/module2-3.html)
