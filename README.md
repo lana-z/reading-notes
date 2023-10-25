@@ -40,7 +40,7 @@ I'm also taking a course to up my technical skills. This website is to document 
 
 [Chatbot Prepwork](201/intro-to-chatbot.md)
 
-
+[Class 03](201/201-03.md)
 
 
 
