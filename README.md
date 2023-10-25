@@ -38,6 +38,8 @@ I'm also taking a course to up my technical skills. This website is to document 
 
 [Class 02](201/201-02.md)
 
+[Chatbot Prepwork](201/intro-to-chatbot.md)
+
 
 
 
