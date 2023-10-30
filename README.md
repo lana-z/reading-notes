@@ -44,9 +44,9 @@ I'm also taking a course to up my technical skills. This website is to document 
 
 [Class 04](201/201-04.md)
 
-[Class 05]()
+[Class 05](201/201-05.md)
 
-
+[Class 06](201/201-06.md)
 
 #### Module 2
 
