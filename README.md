@@ -46,7 +46,15 @@ I'm also taking a course to up my technical skills. This website is to document 
 
 [Class 05](201/201-05.md)
 
-[Class 06](201/201-06.md)
 
 #### Module 2
 
+[Class 06](201/201-06.md)
+
+[Class 07](201/201-07.md)
+
+[Class 08](201/201-08.md)
+
+[Class 09](201/201-09.md)
+
+[Class 10](201/201-10.md)
