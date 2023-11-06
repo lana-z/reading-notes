@@ -58,3 +58,16 @@ I'm also taking a course to up my technical skills. This website is to document 
 [Class 09](201/201-09.md)
 
 [Class 10](201/201-10.md)
+
+
+#### Module 3
+
+[Class 11](201/201-11.md)
+
+[Class 12](201/201-12.md)
+
+[Class 13](201/201-13.md)
+
+[Class 14](201/201-14.md)
+
+[Class 15](201/201-15.md)
