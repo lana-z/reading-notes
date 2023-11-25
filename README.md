@@ -1,5 +1,5 @@
-# reading-notes
-*This is my learning journal for my journey at Code Fellows.*
+# Reading Notes
+*This is my reading notes journal for my journey at Code Fellows.*
 
 
 ## I'm Lana. 🤝
@@ -8,12 +8,12 @@ I do strategy consulting work at my company LevelUp Economy.
 
 And I'm building a community of women in emerging tech called Rooftop.
 
-I'm also taking a course to up my technical skills. This website is to document my journey through the experience, with notes, aha moments, epic fails, and everything in between. Consider this space my code-scribble canvas, where I'll paint my story one commit at a time.
+I'm also taking software development courses. This website is to document my journey through the experience, with notes, aha moments, epic fails, and everything in between. Consider this space my code-scribble canvas, where I'll paint my story one commit at a time.
 
 ## Table of Contents
 
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 [Intro to Command Line Interface, or Terminal](102/intro-cli.md)
 
@@ -30,7 +30,7 @@ I'm also taking a course to up my technical skills. This website is to document 
 [Intro to js Operators](102/js-operators.md)
 
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 #### Module 1
 
@@ -71,3 +71,43 @@ I'm also taking a course to up my technical skills. This website is to document 
 [Class 14](201/201-14.md)
 
 [Class 15](201/201-15.md)
+
+
+
+### Code 301 - Intermediate Software Development
+
+#### Module 1
+
+[Class 01](301/301-01.md)
+
+[Class 02](301/301-02.md)
+
+[Class 03](301/301-03.md)
+
+[Class 04](301/301-04.md)
+
+[Class 05](301/301-05.md)
+
+#### Module 2
+
+[Class 06](301/301-06.md)
+
+[Class 07](301/301-07.md)
+
+[Class 08](301/301-08.md)
+
+[Class 09](301/301-09.md)
+
+[Class 10](301/301-10.md)
+
+
+
+
+
+
+
+
+
+### Code 401 - Advanced Software Development
+
+#### Module 1
