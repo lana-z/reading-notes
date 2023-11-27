@@ -10,8 +10,10 @@ And I'm building a community of women in emerging tech called Rooftop.
 
 I'm also taking software development courses. This website is to document my journey through the experience, with notes, aha moments, epic fails, and everything in between. Consider this space my code-scribble canvas, where I'll paint my story one commit at a time.
 
-## Table of Contents
+### References & Sources
+MDN Web Docs, Web3Schools, ChatGPT
 
+## Table of Contents
 
 ### Code 102 - Intro to Software Development
 
