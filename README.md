@@ -11,7 +11,9 @@ And I'm building a community of women in emerging tech called Rooftop.
 I'm also taking software development courses. This website is to document my journey through the experience, with notes, aha moments, epic fails, and everything in between. Consider this space my code-scribble canvas, where I'll paint my story one commit at a time.
 
 ### References & Sources
-MDN Web Docs, Web3Schools, ChatGPT
+MDN Web Docs, Web3Schools, ChatGPT and more
+
+I have trained a GPT to assist me and use it while preparing every Class Reading Notes.
 
 ## Table of Contents
 
