@@ -104,13 +104,17 @@ I have trained a GPT to assist me and use it while preparing every Class Reading
 
 [Class 10](301/301-10.md)
 
+#### Module 3
 
+[Class 11](301/301-11.md)
 
+[Class 12](301/301-12.md)
 
+[Class 13](301/301-13.md)
 
+[Class 14](301/301-14.md)
 
-
-
+[Class 15](301/301-15.md)
 
 ### Code 401 - Advanced Software Development
 
