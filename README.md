@@ -116,6 +116,7 @@ I have trained a GPT to assist me and use it while preparing every Class Reading
 
 [Class 15](301/301-15.md)
 
+
 ### Code 401 - Advanced Software Development
 
 #### Module 1
