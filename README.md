@@ -2,7 +2,7 @@
 *This is my reading notes journal for my journey at Code Fellows.*
 
 
-## I'm Lana. 🤝
+## Hi, I'm Lana. 🤝
 
 I do strategy consulting work at my company LevelUp Economy.
 
@@ -13,7 +13,7 @@ I'm also taking software development courses. This website is to document my jou
 ### References & Sources
 MDN Web Docs, Web3Schools, ChatGPT and more
 
-I have trained a GPT to assist me and use it while preparing every Class Reading Notes.
+I have trained ChatGPT to assist me and use it while preparing the Reading Notes for each class.
 
 ## Table of Contents
 
@@ -120,3 +120,15 @@ I have trained a GPT to assist me and use it while preparing every Class Reading
 ### Code 401 - Advanced Software Development
 
 #### Module 1
+
+[Class 01](401/401-01.md)
+
+[Class 02](401/401-02.md)
+
+[Class 03](401/401-03.md)
+
+[Class 04](401/401-04.md)
+
+[Class 05](401/401-05.md)
+
+#### Module 2

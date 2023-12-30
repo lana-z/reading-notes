@@ -1,21 +1,19 @@
-# LAB 201-class-06
+# Readme Project Template (Project Title)
 
-## Salmon Cookies
-
-This is the salmon cookies lab, class 06, October 30, 2023.
+This is the (name of) lab, course (##) class (##) on (DATE).
 
 ### Author: Lana Zumbrunn
 
 ### Links and Resources
 
-* John's demo and code review
-* Paired up and with Kim for work on monday branch
+* Demo code / code review
+* Paired up with (who) for work on (name of) branch
 * chatGPT
 
 ### Lighthouse Accessibility Report Score
 
-![Lighthouse score of 90](lighthouse-salmon.png)
+![Lighthouse score of XX](lighthouse-file-name.png)
 
 
 ### Reflections and Comments
-* Making some progress. In-class code review was very helpful.
+* (Comments)

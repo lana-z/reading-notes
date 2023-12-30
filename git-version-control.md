@@ -10,7 +10,7 @@ Cloning is like making an exact copy of a project or code from GitHub onto your 
 Use the command `git add` followed by the file names, like saying hey, Git, pay attention to these files.
 
 ### Take a snapshot of your changed files
-The command to take a snapshot of your changed files is `git commit`, and then you add `-m "MESSAGE ON WHY THE CHANGES"` which saves all the changes you've made with a little note explaining what you did.
+The command to take a snapshot of your changed files is `git commit`, and then you add `-m "message on why the changes"` which saves all the changes you've made with a note explaining what you did.
 
 ### Send changed files to GitHub
 To send your changed files to GitHub, use `git push`, which is like uploading so others can see it and collaborate with you.
