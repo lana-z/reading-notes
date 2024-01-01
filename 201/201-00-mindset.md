@@ -1,4 +1,3 @@
-
 # A growth mindset is
 * believing you can learn, grow and improve via effort.
 * not giving up when you're not initially good at something.
@@ -7,6 +6,7 @@
 
 *Reference:* Mindset: The New Psychology of Success by Carol S. Dweck, PhD.
 
+### Oct 23, 2023
 
 # Bits of advice from the CF team:
 - Prepare to fail. It's part of learning.
@@ -19,7 +19,7 @@
 - Do not suffer in silence.
      - How to ask for help: 1, what was supposed to happen, 2, what is happening, 3, how can I help?
 - Spaghetti code. Make it work - Jr dev example on right. Not a straight line. Sr. dev is red line.
-![what its like to be a software dev](photos/jrdev-to-srdev.png)
+![what its like to be a software dev](/photos/jrdev-to-srdev.png)
 - I'm going to swim in jello today! - John Cokos on embracing growth mindset.
 - Sometimes the best way to lead is to be led.
 

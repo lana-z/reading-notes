@@ -40,6 +40,8 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 #### Module 1
 
+[Intro Tips and Mindset](201/201-00-mindset.md)
+
 [Class 01](201/201-01.md)
 
 [Class 02](201/201-02.md)
@@ -124,7 +126,7 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 #### Prep
 [Intro to SQL](401/401-00-SQL.md)
 
-[Mindset](mindset.md)
+[Mindset](401/401-00-mindset.md)
 
 #### Module 1
 
