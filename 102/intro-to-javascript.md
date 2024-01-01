@@ -17,13 +17,13 @@ It is often referred to as "input" or "user input."
 #### 1. let x = 1;
 #### 2. const y = 2;
 
-Outdated: 
+Outdated:
 
-3. var 
+3. var
 
 4. none
 
-#### Example 
+#### Example
 const myName = "Lana";
 
 let myAge = 45;
@@ -33,4 +33,4 @@ let myAge = 45;
 - Numbers
 - Boolean - true/false
 
-![Review notes image](file:/Users/lanazumbrunn/Desktop/Screenshots/jsreview.png)
+![Review notes image](/photos/jsreview.png)

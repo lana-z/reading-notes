@@ -18,7 +18,8 @@
 - Its about pressing through together.
 - Do not suffer in silence.
      - How to ask for help: 1, what was supposed to happen, 2, what is happening, 3, how can I help?
-- Spaghetti code. Make it work. Sr. dev is red line.
+- Spaghetti code. Make it work - Jr dev example on right. Not a straight line. Sr. dev is red line.
+![what its like to be a software dev](photos/jrdev-to-srdev.png)
 - I'm going to swim in jello today! - John Cokos on embracing growth mindset.
 - Sometimes the best way to lead is to be led.
 

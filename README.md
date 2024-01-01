@@ -27,6 +27,8 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 [Intro to CSS](102/intro-to-css.md)
 
+[Intro to Git Version Control](102/git-version-control.md)
+
 [Intro to JavaScript](102/intro-to-javascript.md)
 
 [Intro to js Functions](102/js-functions.md)
@@ -118,6 +120,11 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 
 ### Code 401 - Advanced Software Development
+
+#### Prep
+[Intro to SQL](401/401-00-SQL.md)
+
+[Mindset](mindset.md)
 
 #### Module 1
 
