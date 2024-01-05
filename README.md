@@ -124,6 +124,8 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 ### Code 401 - Advanced Software Development
 
 #### Prep
+[Intro to Python](401/401-00-python.md)
+
 [Intro to SQL](401/401-00-SQL.md)
 
 [Mindset](401/401-00-mindset.md)
