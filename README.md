@@ -130,6 +130,8 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 [Mindset](401/401-00-mindset.md)
 
+[Practice in the Terminal](401/401-00-cl.md)
+
 #### Module 1
 
 [Class 01](401/401-01.md)
