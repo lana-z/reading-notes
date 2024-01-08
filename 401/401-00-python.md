@@ -298,12 +298,43 @@ Review:
 - `try` and `except` are the two keywords for handling exceptions
 - use `err` in an except block when you want to reuse or inspect an exception youre raising
 - the syntax to catch two exceptions in the same except line is `except (ValueError, TypeError):`
-- 
+-
 
 
+#### Creating and running a python notebook
+- create a local .ipynb file and run it in VS Code. The suffix .ipynb is used to refer to Jupyter notebooks, which were previously called iPython notebooks.
+-
 
 
 ## Things I want to learn more about
+
+- Difference between prototype-based object-oriented model (javascript) verses class-based model (python).
+
+Objects are the primary entities
+
+vs.
+
+Classes are the blueprints for creating objects. A class defines the structure and behavior (data and methods) that objects created from the class will have. Objects are instances of classes.
+
+------
+<br>
+
+- What is a kernel, why is it called kernel
+
+Source: chatgpt
+
+In the context of a Python notebook (`.ipynb`), such as those used in Jupyter Notebooks:
+
+**What is a Kernel?**
+- A kernel is the computational engine that executes the code contained in a notebook document. When you run a code cell in a Jupyter Notebook, that code is sent to the kernel, which runs it and then sends back the output. The kernel maintains the state of a notebook's computations: it remembers the variables you've defined and the computations you've done.
+
+**Why is it called a Kernel?**
+- The term "kernel" in computing originally refers to the central part of an operating system that manages system resources, such as memory, and communicates directly with the hardware. It's called a "kernel" because, like the kernel of a seed, it lies at the core of the system, providing fundamental services and control.
+- In the context of Jupyter and IPython Notebooks, the term "kernel" is used somewhat metaphorically. It refers to the core computational component that executes the code. It's the "kernel of computation" for the notebook, handling the execution of code and maintaining the state and memory of the computations. The name was chosen to reflect its role as a central, vital component in the computational environment, much like a kernel in an operating system.
+
+------
+<br>
+
 - When to use return and when to use output
 
 For example, in my sandbox repo,
