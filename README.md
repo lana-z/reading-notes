@@ -145,3 +145,15 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 [Class 05](401/401-05.md)
 
 #### Module 2
+
+[Class 06](401/401-06.md)
+
+[Class 07](401/401-07.md)
+
+[Class 08](401/401-08.md)
+
+[Class 09](401/401-09.md)
+
+[Class 10](401/401-10.md)
+
+#### Module 3
