@@ -157,3 +157,5 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 [Class 10](401/401-10.md)
 
 #### Module 3
+
+[Class 11](401/401-11.md)
