@@ -171,3 +171,14 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 #### Module 4
 
 [Class 16](401/401-16.md)
+
+[Class 17](401/401-17.md)
+
+[Class 18](401/401-18.md)
+
+[Class 19](401/401-19.md)
+
+[Class 20](401/401-20.md)
+
+#### Module
+
