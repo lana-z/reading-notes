@@ -180,5 +180,21 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 [Class 20](401/401-20.md)
 
-#### Module
+#### Module 5
+
+Classes 21-25: Project Week
+
+#### Module 6
+
+[Class 26](401/401-26.md)
+
+[Class 27](401/401-27.md)
+
+[Class 28](401/401-28.md)
+
+[Class 29](401/401-29.md)
+
+[Class 30](401/401-30.md)
+
+#### Module 7
 
