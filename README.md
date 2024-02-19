@@ -182,7 +182,7 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 #### Module 5
 
-Classes 21-25: Project Week
+Classes 21-25: Midterm Project Week
 
 #### Module 6
 
@@ -198,3 +198,40 @@ Classes 21-25: Project Week
 
 #### Module 7
 
+[Class 31](401/401-31.md)
+
+[Class 32](401/401-32.md)
+
+[Class 33](401/401-33.md)
+
+[Class 34](401/401-34.md)
+
+[Class 35](401/401-35.md)
+
+#### Module 8
+
+[Class 36](401/401-36.md)
+
+[Class 37](401/401-37.md)
+
+[Class 38](401/401-38.md)
+
+[Class 39](401/401-39.md)
+
+[Class 40](401/401-40.md)
+
+#### Module 9
+
+[Class 41](401/401-41.md)
+
+[Class 42](401/401-42.md)
+
+[Class 43](401/401-43.md)
+
+[Class 44](401/401-44.md)
+
+[Class 45](401/401-45.md)
+
+#### Module 10
+
+Classes 46-50: Final Project Week
