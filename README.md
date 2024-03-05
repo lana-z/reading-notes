@@ -226,6 +226,8 @@ Classes 21-25: Midterm Project Week
 
 [Class 42](401/401-42.md)
 
+[Ethics Discussion Notes](401/401-43-ethics.md)
+
 [Class 43](401/401-43.md)
 
 [Class 44](401/401-44.md)
