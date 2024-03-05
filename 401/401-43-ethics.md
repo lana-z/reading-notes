@@ -38,7 +38,7 @@ Leadership principles:
 
 
  ### Ethics in the Workplace article on 'The Code I'm still ashamed of'
-Whoa! Super sad and also commendable that the author spoke up in this way about the website he made for a drug company targeting teen girls in their marketing.
+Whoa! Super sad and also brave that the author spoke up in this way about the website he made for a drug company targeting teen girls in their marketing.
 
 ### Ethics in Technology article 'The Ethical Delimas of Self Driving Cars'
 This article gets into the debate about how self driving cars should react in unforeseeable circumstances, especially when it involves making split-second decisions where people could be hurt. The discussion goes into the difficulty of choosing who to protect in the event of an unavoidable accident with different viewpoints on whether self-driving cars should prioritize the lives of passengers or others. Germany is mentioned as the first country to set guidelines to minimize human death without discrimination.
