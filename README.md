@@ -128,9 +128,14 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 [Intro to SQL](401/401-00-SQL.md)
 
-[Mindset](401/401-00-mindset.md)
+[Growth Mindset](401/401-00-mindset.md)
 
 [Practice in the Terminal](401/401-00-cl.md)
+
+[Data Structures & Algorithms](401/401-00-ds-and-a.md)
+
+[Engineering Mindsest](401/401-00-engineering)
+
 
 #### Module 1
 
