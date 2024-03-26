@@ -19,7 +19,7 @@ I have trained ChatGPT to assist me and use it while preparing the Reading Notes
 
 ### Code 102 - Intro to Software Development
 
-[Intro to Command Line Interface, or Terminal](102/intro-cli.md)
+[Intro to Command Line Interface in the Terminal](102/intro-cli.md)
 
 [Intro to Markdown](102/intro-to-markdown.md)
 
