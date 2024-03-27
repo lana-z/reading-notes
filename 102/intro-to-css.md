@@ -1,3 +1,4 @@
+## Intro to CSS
 
 ### The purpose of CSS
 The purpose of CSS is to make your web pages look pretty and stylish by controlling design and layout, picking colors, fonts, and arranging them.
@@ -7,13 +8,13 @@ The purpose of CSS is to make your web pages look pretty and stylish by controll
 - embed it in the HTML using internal style sheets
 - apply it directly to individual HTML elements with inline styles
 
-### Example CSS that makes all <p> elements red text
-p { color: red; }
+### Example CSS that makes all `<p>` elements red text
+`p { color: red; }`
 
 
 ### The difference between margin and padding
 
-**Margin and padding** are both CSS properties used to control the spacing around elements in a web page, but they serve different purposes and have distinct effects on the layout. 
+**Margin and padding** are both CSS properties used to control the spacing around elements in a web page, but they serve different purposes and have distinct effects on the layout.
 
 **Margins control the spacing between elements, while padding controls the spacing within an element around its content. Both are important for layout and design in web development.**
 
@@ -33,7 +34,7 @@ Here's a visual representation to illustrate the difference:
 
 ```plaintext
 |----------------------------------|
-| Margin (outside the border)     |
+| Margin (outside the border)      |
 |                                  |
 |   |--------------------------|   |
 |   | Padding (inside the border)| |

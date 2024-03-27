@@ -1,5 +1,4 @@
-
-### Using CLI in the Terminal
+## Using CLI in the Terminal
 
 Command line vs. graphical UI (GUI pronounced gooey!):
 
