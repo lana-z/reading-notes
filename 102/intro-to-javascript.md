@@ -1,36 +1,30 @@
+### Intro to JavaScript
 
-### Variables in JavaScript
-Variables in JavaScript are containers for storing data.
+#### Variables in JavaScript
+- **variables** act as containers to store data values
 
-### Declaring a variable
-Declaring a variable means creating it with a name to hold a value.
+#### Declaring a variable
+- **declaring** a variable involves creating it and assigning it a name to store a value
 
-### "Assignment" operators
-The "assignment" operator in JavaScript (=) assigns a value to a variable.
+#### "Assignment" operators
+- the **assignment** operator `=` is used to assign values to JavaScript variables
 
-### Information received from the user
-It is often referred to as "input" or "user input."
+#### Information received from the user
+- often referred to as **input** or **user input**
 
-
-### Four variables are containers for data
-
-#### 1. let x = 1;
-#### 2. const y = 2;
-
-Outdated:
-
-3. var
-
-4. none
+#### Four ways to declare variables in JavaScript
+- using `let`, for example, `let x = 1;`
+- using `const`, for example, `const y = 2;`
+- **outdated**: using `var`
+- **not recommended**: without any declaration (leads to the creation of global variables)
 
 #### Example
-const myName = "Lana";
-
-let myAge = 45;
+- `const myName = "Lana";` declares a constant variable `myName`
+- `let myAge = 45;` declares a variable `myAge` that can be reassigned
 
 #### Data types
-- Strings - 'text here'
-- Numbers
-- Boolean - true/false
+- **Strings**: represent text, e.g., `'text here'`
+- **Numbers**: represent numerical values
+- **Booleans**: represent logical values, either `true` or `false`
 
 ![Review notes image](/photos/jsreview.png)
